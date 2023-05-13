@@ -1,0 +1,16 @@
+# Local Byte-compiled
+.vscode
+
+
+# Optional npm cache directory
+.npm
+
+.DS_Store
+
+node_modules
+coverage
+build
+
+# Crash log files
+crash.log
+
